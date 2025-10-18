@@ -7,8 +7,7 @@
 ## 🌟 About Me  
 - 🚀 Exploring **Web Dev, Software Engineering & AI/ML**  
 - 🎨 Passion for **tech + creativity** — from coding to design  
-- 📹 Content creator since **2018** (Gaming, Aviation & Edits)  
-- 💡 Big dream: **Startups & innovative projects**  
+- 📹 Content creator since **2018** (Gaming, Aviation & Edits) 
 
 ---
 
