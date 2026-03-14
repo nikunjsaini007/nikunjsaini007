@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Nikunj Saini
 
-🎓 **Computer Science Student** | 💻 **Developer**  
+🎓 **Computer Science Student** | 💻 *Developer*  
 
 I enjoy **building projects and exploring technology**, especially in **AI, robotics, automobiles, aviation, and software development.** I like turning ideas into practical and creative solutions.
 
